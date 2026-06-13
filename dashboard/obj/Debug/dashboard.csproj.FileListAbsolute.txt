@@ -1,0 +1,72 @@
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\bin\Debug\dashboard.exe
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\bin\Debug\dashboard.pdb
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.dashboard.resources
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.exe
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.pdb
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.personal_care.resources
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.stationery.resources
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.grochery.resources
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.snacks.resources
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.beverages.resources
+C:\Users\Genius core\Documents\C#project\dashboard\dashboard\obj\Debug\dashboard.fruits.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\bin\Debug\dashboard.exe.config
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\bin\Debug\dashboard.exe
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\bin\Debug\dashboard.pdb
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.Dashboard.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.fruits.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.grochery.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.snacks.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.exe
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.pdb
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.Add.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.Delete.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.Update.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.addSnacks.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.deletesnacks.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.UpdateSnacks.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.Addfruits.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.DeleteFruits.resources
+E:\7th semister\OBJECT ORIENTED PROGRAMMING 2\Project Code\dashboard\dashboard\obj\Debug\dashboard.UpdateFruits.resources
+D:\dashboard\dashboard\bin\Debug\dashboard.exe.config
+D:\dashboard\dashboard\bin\Debug\dashboard.exe
+D:\dashboard\dashboard\bin\Debug\dashboard.pdb
+D:\dashboard\dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+D:\dashboard\dashboard\obj\Debug\dashboard.Add.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.Addfruits.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.addSnacks.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.Dashboard.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.Delete.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.DeleteFruits.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.deletesnacks.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.fruits.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.grochery.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.Managers.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.snacks.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.Update.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.UpdateFruits.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.UpdateSnacks.resources
+D:\dashboard\dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+D:\dashboard\dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+D:\dashboard\dashboard\obj\Debug\dashboard.exe
+D:\dashboard\dashboard\obj\Debug\dashboard.pdb
+D:\dashboard\dashboard\obj\Debug\dashboard.stuff.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.Payment.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.AdminSignIn.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.First.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.ManagerLogIn.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.StaffLogIn.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.StaffInvent.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.GroceryStuff.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.SnacksStuff.resources
+D:\dashboard\dashboard\obj\Debug\dashboard.FruitsStuff.resources
